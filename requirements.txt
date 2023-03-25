@@ -1,0 +1,5 @@
+tqdm
+pillow
+diffusers
+realesrgan
+basicsr
