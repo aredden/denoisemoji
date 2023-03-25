@@ -1,5 +1,7 @@
 # Denoisemoji
 
+![Denoice.gif](https://github.com/aredden/denoisemoji/raw/master/assets/denoice.gif)
+
 This is a command-line tool that allows you to create a denoised emoji from a PNG/WEBP/JPG image.
 
 ## Usage
