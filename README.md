@@ -8,7 +8,7 @@ This is a command-line tool that allows you to create a denoised emoji from a PN
 The tool can be run from a command prompt and requires several arguments
 
 ```bash
-python denoisemoji.py -i <input_image_path> [-o <output_image_path>] [-sd <path_to_diffusers_model>] [--no-upscale] [-n <number_steps>] [-t <take_every>] [-s <size>] [-d <device>] [-dt <dtype>]
+python noisemoji.py -i <input_image_path> [-o <output_image_path>] [-sd <path_to_diffusers_model>] [--no-upscale] [-n <number_steps>] [-t <take_every>] [-s <size>] [-d <device>] [-dt <dtype>]
 ```
 
 ### Required arguments
